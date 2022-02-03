@@ -12,8 +12,8 @@ or reach out via <a href="mailto:matthew.d.lewis64@gmail.com">email</a>
 
 <img height="100em" src="https://user-images.githubusercontent.com/29003130/135118588-8ee4ad5d-2419-4324-8bcc-85fe1ac2653d.png"/> <br>
 <br>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lewis-Matt&layout=compact&theme=tokyonight&langs_count=8" />
-<img height="170em"src="https://github-readme-stats.vercel.app/api?username=Lewis-Matt&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lewis-Matt&layout=compact&theme=tokyonight&langs_count=8" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lewis-Matt&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 <br><hr>
 
 <h3>Tech Experience</h3>
